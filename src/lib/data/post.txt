@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "url": "Indian Navy 10+2 B.Tech Entry Permanent Commission July 2025",
+    "additional_info": {
+      "short_info": "Navy Recruitment (Join Indian Navy) has released the advertisement",
+      "important_dates": {
+        "Application_Begin": "06/12/2024",
+        "Last_Date_for_Apply_Online": "20/12/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "Join Indian Navy (Har Kaam Desh ke Naam) Are Released B.Tech Entry Permanent Commission July 2025 Batch Recruitment 2023.",
+        "Candidate Can Apply Between 06/12/2024 to 20/12/2024.",
+        "Candidate Read the Notification Before Apply the Recruitment Application Form in Nausena Bharti Navy B.Tech Entry Post 2024.",
+        "Kindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.",
+        "Kindly Ready Scan Document Related to Admission Entrance Form - Photo, Sign, ID Proof, Etc.",
+        "Before Submit the Application Form Must Check the Preview and All Column Carefully.",
+        "Take A Print Out of Final Submitted Form."
+      ],
+      "extra_info": {
+        "Entry_Name": "Indian Navy 10+2 B.Tech Eligibility",
+        "Post_Name": "B.E. / B.Tech",
+        "Branch": "Executive & Technical Branch",
+        "Total_Post": 36,
+        "Eligibility_Criteria": [
+          "Candidates Must be Enrolled and Appeared in JEEMAIN 2024 Entrance Examination.",
+          "Passed 10+2 Exam with 70% Marks in Physics, Chemistry, Math PCM in Each Subject.",
+          "Minimum: 50% Marks in English at Class 10 & Class 12 Level Examination.",
+          "Minimum Height: 157 CMS."
+        ]
+      },
+      "age_limit": {
+        "Notification": "Indian Navy B.Tech Notification 2024",
+        "Age_Limit_for_July_2025_Batch": "Born Between: 02/01/2006 to 01/07/2008"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "url": "Indian Army Technical Graduate Course TGC-141 January 2025",
+    "additional_info": {
+      "short_info": "Indian Army has released the Technical Graduate Course TGC-141 notification",
+      "important_dates": {
+        "Application_Begin": "15/11/2024",
+        "Last_Date_for_Apply_Online": "14/12/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "Indian Army TGC-141 Recruitment Online Form 2024 is available for eligible candidates.",
+        "Apply Between 15/11/2024 to 14/12/2024.",
+        "Read Notification Before Applying the Online Form.",
+        "Ensure to Collect and Verify Eligibility Documents, ID Proof, and Educational Certificates.",
+        "Scan Required Documents for Upload: Photo, Signature, and ID Proof.",
+        "Review and Verify the Form Carefully Before Submission.",
+        "Print a Copy of Final Submitted Form for Future Use."
+      ],
+      "extra_info": {
+        "Entry_Name": "Technical Graduate Course (TGC-141)",
+        "Post_Name": "Technical Officer",
+        "Branch": "Engineering Stream",
+        "Total_Post": 40,
+        "Eligibility_Criteria": [
+          "Engineering Degree in Relevant Discipline.",
+          "Final Year Engineering Students Eligible.",
+          "Age Between 20 to 27 Years as of 01/01/2025."
+        ]
+      },
+      "age_limit": {
+        "Notification": "TGC-141 Notification",
+        "Age_Limit": "Born Between: 02/01/1998 to 01/01/2005"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "url": "Indian Air Force AFCAT 01/2025",
+    "additional_info": {
+      "short_info": "Indian Air Force invites applications for AFCAT 01/2025 Batch",
+      "important_dates": {
+        "Application_Begin": "01/12/2024",
+        "Last_Date_for_Apply_Online": "30/12/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "Indian Air Force AFCAT 01/2025 Application Form is Open.",
+        "Apply Between 01/12/2024 to 30/12/2024.",
+        "Read Notification Carefully Before Applying.",
+        "Prepare Necessary Documents: ID Proof, Educational Certificates, etc.",
+        "Upload Scanned Copies of Photo, Signature, and Relevant Documents.",
+        "Double-check the Application Form Before Final Submission.",
+        "Save a Copy of Submitted Form for Reference."
+      ],
+      "extra_info": {
+        "Entry_Name": "AFCAT 01/2025",
+        "Post_Name": "Flying Branch, Ground Duty (Technical and Non-Technical)",
+        "Branch": "Indian Air Force",
+        "Total_Post": 241,
+        "Eligibility_Criteria": [
+          "Graduation in Relevant Discipline with Minimum 60% Marks.",
+          "Age Limit Varies for Flying and Ground Duty Branches.",
+          "Medical Fitness Standards as per Indian Air Force Guidelines."
+        ]
+      },
+      "age_limit": {
+        "Notification": "AFCAT 01/2025 Notification",
+        "Age_Limit": "Flying Branch: 20-24 Years, Ground Duty: 20-26 Years"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "url": "UPSC CDS (I) 2025",
+    "additional_info": {
+      "short_info": "Union Public Service Commission (UPSC) has released CDS (I) 2025 notification",
+      "important_dates": {
+        "Application_Begin": "15/12/2024",
+        "Last_Date_for_Apply_Online": "12/01/2025",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "UPSC CDS (I) Online Form 2025 is Available for Interested Candidates.",
+        "Apply Between 15/12/2024 to 12/01/2025.",
+        "Read Official Notification for Complete Instructions.",
+        "Ensure All Documents are Ready: ID Proof, Educational Qualifications, etc.",
+        "Upload Scanned Photo and Signature in Required Format.",
+        "Review Application Form and Submit Only After Verification.",
+        "Keep a Hard Copy of Submitted Form for Reference."
+      ],
+      "extra_info": {
+        "Entry_Name": "Combined Defence Services Examination (I)",
+        "Post_Name": "Officers in Army, Navy, Air Force",
+        "Branch": "Indian Armed Forces",
+        "Total_Post": 345,
+        "Eligibility_Criteria": [
+          "Graduation in Any Discipline for Army.",
+          "Engineering Degree for Navy and Air Force.",
+          "Physical and Medical Standards as Prescribed."
+        ]
+      },
+      "age_limit": {
+        "Notification": "CDS (I) 2025 Notification",
+        "Age_Limit": "20 to 24 Years as of 01/01/2025"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "url": "SSC CHSL 2024-25",
+    "additional_info": {
+      "short_info": "Staff Selection Commission (SSC) has announced CHSL 2024-25 recruitment",
+      "important_dates": {
+        "Application_Begin": "10/11/2024",
+        "Last_Date_for_Apply_Online": "15/12/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "SSC CHSL Online Application Form is Available.",
+        "Apply Between 10/11/2024 to 15/12/2024.",
+        "Read the Official Notification Carefully Before Proceeding.",
+        "Collect All Required Documents and Verify Details.",
+        "Scan and Upload Documents: Photo, Signature, etc.",
+        "Review All Fields in the Application Form Before Submission.",
+        "Print the Final Form for Records."
+      ],
+      "extra_info": {
+        "Entry_Name": "SSC CHSL 2024-25",
+        "Post_Name": "LDC, DEO, Postal Assistant, Sorting Assistant",
+        "Branch": "Central Government",
+        "Total_Post": 5000,
+        "Eligibility_Criteria": [
+          "Passed 10+2 Examination from Recognized Board.",
+          "Proficiency in Typing for Certain Posts."
+        ]
+      },
+      "age_limit": {
+        "Notification": "SSC CHSL 2024-25 Notification",
+        "Age_Limit": "18-27 Years as of 01/01/2025"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "url": "UP Police SI Recruitment 2024",
+    "additional_info": {
+      "short_info": "Uttar Pradesh Police has released notification for Sub Inspector recruitment 2024",
+      "important_dates": {
+        "Application_Begin": "01/01/2024",
+        "Last_Date_for_Apply_Online": "31/01/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "UP Police SI Recruitment Application is Open.",
+        "Apply Between 01/01/2024 to 31/01/2024.",
+        "Read Official Notification for Detailed Instructions.",
+        "Gather Necessary Documents Before Applying.",
+        "Upload Required Documents as per Guidelines.",
+        "Cross-Check the Form Before Submitting.",
+        "Print the Application for Future Reference."
+      ],
+      "extra_info": {
+        "Entry_Name": "UP Police SI Recruitment 2024",
+        "Post_Name": "Sub Inspector",
+        "Branch": "Uttar Pradesh Police",
+        "Total_Post": 9534,
+        "Eligibility_Criteria": [
+          "Graduation in Any Discipline.",
+          "Physical Fitness and Standards as per UP Police Guidelines."
+        ]
+      },
+      "age_limit": {
+        "Notification": "UP Police SI Recruitment Notification",
+        "Age_Limit": "21-28 Years as of 01/01/2024"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "url": "IBPS PO/MT Recruitment 2024",
+    "additional_info": {
+      "short_info": "Institute of Banking Personnel Selection (IBPS) has announced PO/MT Recruitment 2024",
+      "important_dates": {
+        "Application_Begin": "02/08/2024",
+        "Last_Date_for_Apply_Online": "22/08/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "IBPS PO/MT Online Application is Live.",
+        "Apply Between 02/08/2024 to 22/08/2024.",
+        "Read Notification Before Starting Application.",
+        "Prepare Scanned Documents for Upload: Photo, Signature, etc.",
+        "Verify All Details in Application Form Carefully.",
+        "Submit the Application Form and Print for Records."
+      ],
+      "extra_info": {
+        "Entry_Name": "IBPS PO/MT Recruitment 2024",
+        "Post_Name": "Probationary Officer/Management Trainee",
+        "Branch": "Banking",
+        "Total_Post": 3500,
+        "Eligibility_Criteria": [
+          "Graduation in Any Discipline.",
+          "Proficiency in Computer Operations Preferred."
+        ]
+      },
+      "age_limit": {
+        "Notification": "IBPS PO/MT Notification 2024",
+        "Age_Limit": "20-30 Years as of 01/08/2024"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "url": "DRDO CEPTAM Recruitment 2024",
+    "additional_info": {
+      "short_info": "Defence Research and Development Organization (DRDO) CEPTAM Recruitment 2024",
+      "important_dates": {
+        "Application_Begin": "20/01/2024",
+        "Last_Date_for_Apply_Online": "15/02/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "DRDO CEPTAM Application Form Available Online.",
+        "Apply Between 20/01/2024 to 15/02/2024.",
+        "Review the Official Notification for Eligibility and Instructions.",
+        "Prepare Required Documents Before Starting Application.",
+        "Upload Scanned Copies of Documents as Specified.",
+        "Verify All Details and Submit Application Form.",
+        "Save Submitted Form for Future Use."
+      ],
+      "extra_info": {
+        "Entry_Name": "DRDO CEPTAM Recruitment 2024",
+        "Post_Name": "Technical and Administrative Positions",
+        "Branch": "DRDO",
+        "Total_Post": 2000,
+        "Eligibility_Criteria": [
+          "Degree/Diploma in Relevant Discipline.",
+          "Specific Experience Requirements as Notified."
+        ]
+      },
+      "age_limit": {
+        "Notification": "DRDO CEPTAM Notification",
+        "Age_Limit": "18-27 Years as of 15/02/2024"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "url": "RBI Grade B Officer Recruitment 2024",
+    "additional_info": {
+      "short_info": "Reserve Bank of India (RBI) invites applications for Grade B Officer positions",
+      "important_dates": {
+        "Application_Begin": "01/06/2024",
+        "Last_Date_for_Apply_Online": "30/06/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "RBI Grade B Recruitment Application Form is Available Online.",
+        "Apply Between 01/06/2024 to 30/06/2024.",
+        "Read the Official Notification Before Applying.",
+        "Collect All Required Documents and Verify Details.",
+        "Upload Scanned Copies of Photo, Signature, and ID Proof.",
+        "Ensure Application Details are Accurate Before Submission.",
+        "Print a Hard Copy of the Final Form for Future Reference."
+      ],
+      "extra_info": {
+        "Entry_Name": "RBI Grade B Recruitment 2024",
+        "Post_Name": "Grade B Officer",
+        "Branch": "Reserve Bank of India",
+        "Total_Post": 322,
+        "Eligibility_Criteria": [
+          "Bachelor's Degree with Minimum 60% Marks.",
+          "Knowledge of Banking and Financial Systems Preferred.",
+          "Age Between 21-30 Years as of 01/06/2024."
+        ]
+      },
+      "age_limit": {
+        "Notification": "RBI Grade B Notification 2024",
+        "Age_Limit": "21-30 Years as of 01/06/2024"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "url": "Indian Coast Guard Assistant Commandant 01/2025 Batch",
+    "additional_info": {
+      "short_info": "Indian Coast Guard has announced recruitment for Assistant Commandant 01/2025 Batch",
+      "important_dates": {
+        "Application_Begin": "05/07/2024",
+        "Last_Date_for_Apply_Online": "25/07/2024",
+        "Last_Date_Send_Application_Form": "No Need to Send Application Form"
+      },
+      "how_to_fill": [
+        "Indian Coast Guard Assistant Commandant Form is Online.",
+        "Apply Between 05/07/2024 to 25/07/2024.",
+        "Read the Notification Before Applying.",
+        "Prepare All Required Documents Before Starting Application.",
+        "Upload Scanned Copies of Photo, Signature, and Educational Certificates.",
+        "Verify Form Details Before Final Submission.",
+        "Save and Print the Submitted Application Form."
+      ],
+      "extra_info": {
+        "Entry_Name": "Assistant Commandant 01/2025",
+        "Post_Name": "Assistant Commandant",
+        "Branch": "Indian Coast Guard",
+        "Total_Post": 46,
+        "Eligibility_Criteria": [
+          "Graduation with Minimum 60% Marks.",
+          "Specific Physical and Medical Standards Apply.",
+          "Maximum Age 24 Years as of 01/07/2025."
+        ]
+      },
+      "age_limit": {
+        "Notification": "Assistant Commandant 01/2025 Notification",
+        "Age_Limit": "Born Between: 01/07/2000 to 30/06/2004"
+      }
+    }
+  }
+]
